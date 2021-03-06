@@ -1,0 +1,14 @@
+body{
+font-family: 'San Serif';
+background: linear-gradient(to right, rgb(152, 216, 146), rgb(91, 123, 210));;
+font-size:120%;
+text-align: center;
+}
+
+a{
+    color: mintcream;
+    font-weight: bold;
+}
+a:hover{
+    color: navy;
+}
